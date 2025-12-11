@@ -1,4 +1,4 @@
-I'm giving myself a bit of leeway at the end of the year to explore something I've been thinking about a lot this year: norms, roles, and responsibilities in providing, managing, and analyzing occurrence data. I'm spending time with the following five papers:
+I'm giving myself a bit of leeway at the end of the year to explore something I've been thinking about a lot this year: norms, roles, and responsibilities in providing, managing, and analyzing occurrence data. My latest round of exploration has gotten deeply philosophical, so now I'm spending time with the following five papers:
 
 Sterner, Beckett, and Nico M. Franz. 2017. “Taxonomy for Humans or Computers? Cognitive Pragmatics for Big Data.” _Biological Theory_ 12 (2): 99–111. [https://doi.org/10.1007/s13752-017-0259-5](https://doi.org/10.1007/s13752-017-0259-5).
 
